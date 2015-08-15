@@ -36,7 +36,7 @@
   <string name="system_title">Thông tin hệ thống</string>
   <string name="system_rom">Phiên bản ROM: %1$s</string>
   <string name="system_gapps">Phiên bản Google apps: %1$s %2$s</string>
-  <string name="system_recovery">Recovery version: %1$s</string>
+  <string name="system_recovery">Phiên bản phục hồi: %1$s</string>
   <string name="system_recovery_unknown">Không rõ</string>
   <string name="updates">Các bản cập nhật</string>
   <string name="updates_checking">Đang kiểm tra...</string>
@@ -71,11 +71,11 @@
   <string name="alert_backup_message">Chỉ định tên bản sao lưu (các kí tự không hợp lệ sẽ bị loại bỏ).\n\nTùy chọn này chỉ hoạt động với TWRP.</string>
   <string name="system">Hệ thống</string>
   <string name="data">Dữ liệu</string>
-  <string name="cache">Cache</string>
-  <string name="recovery">Recovery</string>
+  <string name="cache">Bộ nhớ đệm</string>
+  <string name="recovery">Phục hồi</string>
   <string name="boot">Boot</string>
   <string name="androidsecure">Cài dặt cập nhật</string>
-  <string name="sdext">SD-Ext</string>
+  <string name="sdext">Thẻ nhớ SD ngoài</string>
   <string name="alert_reboot_install_title">Cài đặt cập nhật</string>
   <string name="alert_reboot_one_message">Điện thoại của bạn sẽ khởi động lại và cài đặt cập nhật.</string>
   <string name="alert_reboot_more_message">Điện thoại của bạn sẽ khởi động lại và cài đặt cập nhật.</string>
